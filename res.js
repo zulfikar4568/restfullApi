@@ -1,6 +1,6 @@
 'use strict';
 
-exports.ok = function name(values, res) {
+exports.ok = function(values, res) {
     var data = {
         'status': 200,
         'values': values
@@ -8,4 +8,4 @@ exports.ok = function name(values, res) {
 
      res.json(data);
      res.end();
-}
+};
