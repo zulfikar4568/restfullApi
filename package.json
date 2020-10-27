@@ -1,0 +1,25 @@
+{
+  "name": "mahasiswaapi",
+  "version": "1.0.0",
+  "description": "Belajar RestfullApi",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zulfikar4568/restfullApi.git"
+  },
+  "keywords": [
+    "rest",
+    "api",
+    "node",
+    "js"
+  ],
+  "author": "M.Zulfikar I",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zulfikar4568/restfullApi/issues"
+  },
+  "homepage": "https://github.com/zulfikar4568/restfullApi#readme"
+}
